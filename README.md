@@ -1,6 +1,6 @@
 # Java 17 Migration Demo
 
-This demo application was built to run on Java 8 but contains migration issues when run on Java 17. The slides that go with this demo are available here: https://www.slideshare.net/AlexMotley3/making-the-move-to-java-17-jconf-2022.
+This demo application was built to run on Java 8 but contains migration issues when run on Java 17. The slides that go with this demo are available here: https://www.slideshare.net/AlexMotley3/making-the-move-to-java-17-jconf-2022-253278338.
 
 Prereqs:
 - Maven
